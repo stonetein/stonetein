@@ -2,6 +2,11 @@
 <img src="https://www.codeart3d.xyz/Generative-Art-Lab/images/codeart3d_icon_conver.jpg" alt="CodeArt3D" width="400">
 </p>
 
+```mermaid
+flowchart LR
+A1[Character] --> B1[Stylization] --> C1[3D Modeling] --> D1[Animation] --> E1((WebGL)) --> F1{Game}
+
+```
 
 😄 Hi, I'm Stone and I'm an technical pipeline animator.
 
