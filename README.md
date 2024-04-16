@@ -1,5 +1,6 @@
-### Hi there 👋
-![CodeAre3D](https://www.codeart3d.xyz/Generative-Art-Lab/images/codeart3d_icon_conver.jpg)
+<img src="https://www.codeart3d.xyz/Generative-Art-Lab/images/codeart3d_icon_conver.jpg" alt="CodeArt3D" width="100">
+### Generative Art Lab is a collaborative platform dedicated to exploring the intersection of art and artificial intelligence (AI). Join us to create, share, and discover AI-generated artworks.
+
 <!--
 **stonetein/stonetein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
