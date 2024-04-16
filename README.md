@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![CodeAre3D](https://www.codeart3d.xyz/Generative-Art-Lab/images/codeart3d_icon_conver.jpg)
 <!--
 **stonetein/stonetein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
