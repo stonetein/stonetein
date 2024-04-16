@@ -1,5 +1,11 @@
-<img src="https://www.codeart3d.xyz/Generative-Art-Lab/images/codeart3d_icon_conver.jpg" alt="CodeArt3D" width="100">
-### Generative Art Lab is a collaborative platform dedicated to exploring the intersection of art and artificial intelligence (AI). Join us to create, share, and discover AI-generated artworks.
+<p align="center">
+<img src="https://www.codeart3d.xyz/Generative-Art-Lab/images/codeart3d_icon_conver.jpg" alt="CodeArt3D" width="400">
+</p>
+
+
+😄 Hi, I'm Stone and I'm an technical pipeline animator.
+
+📌 __Generative Art Lab__ is a collaborative platform dedicated to exploring the intersection of art and artificial intelligence (AI).  
 
 <!--
 **stonetein/stonetein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
