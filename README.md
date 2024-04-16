@@ -4,7 +4,11 @@
 
 ```mermaid
 flowchart LR
-A1[Character] --> B1[Stylization] --> C1[3D Modeling] --> D1[Animation] --> E1((WebGL)) --> F1{Game}
+subgraph Generative AI
+A1[Character] --> B1[Stylization] --> C1[3D Modeling] --> D1[Animation]
+end
+D1[Animation] --> E1((WebGL)) --> F1{Game}
+
 
 ```
 
